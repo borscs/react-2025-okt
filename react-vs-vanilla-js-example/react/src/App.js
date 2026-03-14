@@ -23,7 +23,6 @@ const content = [
 
 export default function App() {
   const [activeContentIndex, setActiveContentIndex] = useState(0);
-
   return (
     <div>
       <header>
